@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET users listing. */
 router.get('/', function (req, res, next) {
-  res.json('respond with a debug12123345!!!');
+  res.json('respond with a debug!!!');
 });
 
 module.exports = router;
